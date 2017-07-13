@@ -1,0 +1,17 @@
+title: "Scaling Bioinformatics Training: An ELIXIR, GOBLET & Galaxy Training Network Collaboration"
+description: Poster for the ISMB/ECCB 2017
+url: "http://research.bebatut.fr/gcc_2017_asaim/"
+github_repository: "https://github.com/bebatut-research/eccb_2017_training_poster"
+
+source:       .
+destination:  ./_site
+plugins_dir:  _plugins
+layouts_dir:  _layouts
+includes_dir: _includes
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
