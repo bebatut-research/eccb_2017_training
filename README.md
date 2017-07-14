@@ -1,7 +1,7 @@
 Poster presented at ISMB/ECCB 2017
 ==============================
 
-## Scaling Bioinformatics Training: An ELIXIR, GOBLET & Galaxy Training Network Collaboration"
+## Scaling Bioinformatics Training: An ELIXIR, GOBLET & Galaxy Training Network Collaboration
 
 Bérénice Batut, Björn Grüning, Frederik Coppens, Hans-Rudolf Hotz, Gabriella Rustici, Celia W G van Gelder, Dave Clements
 
