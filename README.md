@@ -5,7 +5,7 @@ Poster presented at ISMB/ECCB 2017
 
 Bérénice Batut, Björn Grüning, Frederik Coppens, Hans-Rudolf Hotz, Gabriella Rustici, Celia W G van Gelder, Dave Clements
 
-On behalf of : Galaxy Training Network Members, E/G/G Hackathon Participants, ELIXIR Galaxy WG
+On behalf of : Galaxy Training Network Members, May 2017 Hackathon Participants, ELIXIR Galaxy WG
 
 ![Poster](images/poster.png)
 
